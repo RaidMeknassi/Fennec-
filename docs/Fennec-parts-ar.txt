@@ -1,0 +1,69 @@
+‏Fennec — قائمة القطع
+‏جهاز ذكاء اصطناعي جيبي — واي فاي فقط (بدون شريحة SIM)
+‏
+‏قطع للشراء (13)
+‏
+‏1. راسبيري باي زيرو 2 دبليو (العقل)
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=Raspberry+Pi+Zero+2+W
+‏
+‏2. بطاقة ذاكرة microSD ‏32GB
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=microSD+card+32GB+A1
+‏
+‏3. شاشة 2.0 بوصة IPS ‏240×320
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=2.0+inch+IPS+LCD+240x320+ST7789+SPI
+‏
+‏4. مقبض دوّار EC11 مع ضغط (الدايل)
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=EC11+rotary+encoder+with+push+switch
+‏
+‏5. مفاتيح لمس صغيرة (2 عادية، 3 جانبية، 3 احتياط)
+‏   الكمية: 8
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=SMD+side+press+tactile+switch
+‏
+‏6. لوح تجارب مثقوب 5×7 سم
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=double+sided+prototype+PCB+5x7+cm
+‏
+‏7. لوحة صوت WM8960 (سماعة + ميكروفون + سماعة رأس)
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=WM8960+audio+codec+module
+‏
+‏8. مكبّر صوت 28 مم، 8 أوم، 1 واط، رفيع
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=28mm+8ohm+1W+thin+speaker
+‏
+‏9. مقبس سماعة رأس PJ-320A ‏3.5 مم (4 أقطاب)
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=PJ-320A+3.5mm+4+pole+jack
+‏
+‏10. لوحة شحن + رفع جهد 5 فولت IP5306 (USB-C)
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=IP5306+USB-C+charge+boost+module+5V+2A
+‏
+‏11. بطارية ليثيوم 3.7 فولت ~1000 مللي أمبير 603450 مع حماية
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=603450+3.7V+lipo+battery+with+protection
+‏
+‏12. كاميرا OV5647 لـ Pi Zero (كابل 22 pin)
+‏   الكمية: 1
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=Raspberry+Pi+Zero+camera+OV5647+22pin
+‏
+‏13. أسلاك 30AWG، براغي M1.6/M2، شريط لاصق، LED
+‏   الكمية: 1 طقم
+‏   الرابط: ‎https://www.aliexpress.com/wholesale?SearchText=30AWG+silicone+wire+M1.6+screw+kit
+‏
+‏أيضًا: كابل USB-C ومكواة لحام.
+‏
+‏قطع للطباعة ثلاثية الأبعاد (4)
+‏
+‏1. الغلاف الأمامي — الكمية: 1 — فتحات للشاشة والدايل وزرّين والسماعة
+‏2. الغلاف الخلفي — الكمية: 1 — نافذة الكاميرا والشعار
+‏3. أغطية الأزرار — الكمية: 5 — رجوع، كاميرا، تشغيل (أحمر)، صوت + و −
+‏4. حلقة الدايل + غطاء OK — الكمية: 1 — تُلصق على محور المقبض
+‏
+‏الطباعة: راتنج (resin) أو نايلون MJF.
+‏تحقق من المقاسات في صفحة كل منتج قبل الطلب.
+‏
