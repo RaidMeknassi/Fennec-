@@ -3,6 +3,8 @@
 A personal pocket AI gadget (5.2 × 8.5 × 1.2 cm): screen, turnable dial with OK/mic, Back and Camera buttons, power and volume buttons, headset jack. **Wi-Fi only (no SIM).**
 
 ## Prototype
+**Open the web app:** https://claude.ai/artifact/2cRQvNEfT781UiitD55yN1
+
 `prototype/index.html` is an interactive 3D demo (three.js). Open it in a browser: turn the dial, use the buttons, open Settings (Wi-Fi, Bluetooth, Sound, Language) and tap **Disassemble** to see every part.
 
 ## Parts to buy (13)
